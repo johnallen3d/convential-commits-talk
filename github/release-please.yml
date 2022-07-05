@@ -1,0 +1,4 @@
+primaryBranch: master
+releaseType: ruby
+handleGHRelease: true
+versionFile: lib/widgets/version.rb
